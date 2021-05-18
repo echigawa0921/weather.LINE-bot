@@ -1,0 +1,15 @@
+current directory: /Users/iphoneau/inline-bot/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/iphoneau/.rbenv/versions/2.6.6/bin/ruby -I /Users/iphoneau/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210518-36510-1ha6xwu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/iphoneau/inline-bot/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/iphoneau/inline-bot/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/iphoneau/inline-bot/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210518-36510-uefrep/bootsnap
