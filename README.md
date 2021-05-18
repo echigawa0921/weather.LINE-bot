@@ -1,7 +1,9 @@
 # LINE-bot
 
-気象庁の天気予報情報を XML で配信している「drk7.jp」からデータを取得し、
-指定した「日にち」によって天気予報をお伝えするLINEbotです。
+気象庁の天気予報情報を XML で配信している「drk7.jp」からデータを取得し、    
+指定した「日にち」によって天気予報をお伝えするLINEbotです。   
+    
+    ＊初めてのLINEbot作成です！！
 
 # 見本
 <img width="280" alt="スクリーンショット 2021-05-18 18 18 10" src="https://user-images.githubusercontent.com/69971834/118627230-81af5c80-b806-11eb-998a-7dbb14c4ba70.png">
