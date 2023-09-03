@@ -5,10 +5,6 @@
    
    登録リンク：https://line.me/R/ti/p/%40655uvtat
     
-    ＊初めてのLINEbot作成です！！
-
-# 見本
-<img width="280" alt="スクリーンショット 2021-05-18 18 18 10" src="https://user-images.githubusercontent.com/69971834/118627230-81af5c80-b806-11eb-998a-7dbb14c4ba70.png">
 
 
 # 環境
